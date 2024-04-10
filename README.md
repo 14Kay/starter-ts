@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: 14K
  * @Date: 2024-04-10 16:10:48
- * @LastEditTime: 2024-04-10 17:49:57
+ * @LastEditTime: 2024-04-10 18:13:38
  * @LastEditors: 14K
 -->
 # starter-ts
@@ -11,7 +11,6 @@
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![bundle][bundle-src]][bundle-href]
 [![JSDocs][jsdocs-src]][jsdocs-href]
-[![License][license-src]][license-href]
 
 _description_
 
@@ -31,6 +30,5 @@ _description_
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/@14kay/starter-ts?style=flat&colorA=080f12&colorB=1fa669&label=minzip
 [bundle-href]: https://bundlephobia.com/result?p=@14kay/starter-ts
 [license-src]: https://img.shields.io/github/license/antfu/@14kay/starter-ts.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/14kay/starter-ts/blob/master/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
 [jsdocs-href]: https://www.jsdocs.io/package/@14kay/starter-ts
