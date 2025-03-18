@@ -19,7 +19,7 @@ _description_
 
 ## License
 
-[MIT](./LICENSE) License © 2024-PRESENT [14K](https://github.com/14Kay)
+[MIT](./LICENSE) License © 2025-PRESENT [14K](https://github.com/14Kay)
 
 <!-- Badges -->
 
