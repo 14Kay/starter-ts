@@ -2,7 +2,7 @@
   "name": "@14kay/starter-ts",
   "type": "module",
   "version": "0.0.2",
-  "packageManager": "pnpm@10.15.1",
+  "packageManager": "pnpm@10.19.0",
   "description": "_description_",
   "author": {
     "name": "14K",
@@ -56,16 +56,16 @@
     "prepare": "simple-git-hooks"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^5.3.0",
-    "@types/node": "^24.3.1",
-    "eslint": "^9.35.0",
+    "@antfu/eslint-config": "^6.0.0",
+    "@types/node": "^24.9.1",
+    "eslint": "^9.38.0",
     "esno": "^4.8.0",
     "pnpm": "^8.4.0",
     "simple-git-hooks": "^2.13.1",
     "tsup": "^8.5.0",
-    "typescript": "^5.9.2",
-    "vitest": "^3.2.4",
-    "lint-staged": "^16.1.6"
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.2",
+    "lint-staged": "^16.2.6"
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged"
